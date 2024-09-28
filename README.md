@@ -1,4 +1,4 @@
-﻿# Fix Window Gaps
+﻿# Rocket Thrust Override
 
-This mod for Stationeers fixes the weird gaps after opening and closing inventory windows
+This mod for Stationeers increases the thrust of the rocket engines by increasing the efficiency
 
